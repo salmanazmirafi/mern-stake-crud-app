@@ -1,0 +1,18 @@
+.App {
+  width: 60%;
+  margin: auto;
+  margin-top: 5%;
+}
+.input {
+  width: 100%;
+  font-size: 20px;
+  color: gray;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  padding: 5px;
+}
+.input:focus {
+  color: brown;
+}

@@ -1,2 +1,0 @@
-# mern-stake-crud-app
- 
